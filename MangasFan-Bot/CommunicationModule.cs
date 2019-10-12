@@ -39,6 +39,7 @@ namespace MangasFan_Bot
                 Title = json.username,
                 Description = json.description,
                 Color = Color.Blue,
+                ImageUrl = "https://www.mangasfan.fr/membres/images/avatars/" + json.avatar,
                 Fields = new List<EmbedFieldBuilder>()
                 {
                     new EmbedFieldBuilder
