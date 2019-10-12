@@ -1,0 +1,3 @@
+[submodule "MangasFan-Bot/Discord-Utils"]
+	path = MangasFan-Bot/Discord-Utils
+	url = https://github.com/Xwilarg/Discord-Utils
