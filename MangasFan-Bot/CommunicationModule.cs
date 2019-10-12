@@ -44,13 +44,11 @@ namespace MangasFan_Bot
                 {
                     new EmbedFieldBuilder
                     {
-                        IsInline = true,
                         Name = "Favorite Anime",
                         Value = json.anime
                     },
                     new EmbedFieldBuilder
                     {
-                        IsInline = true,
                         Name = "Favorite Manga",
                         Value = json.manga
                     }
